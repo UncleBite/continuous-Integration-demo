@@ -1,5 +1,5 @@
 setup:
-	python3 -m venv ~/.myrepo
+	python3 -m venv ~/.continuous-Integration-demo
 
 install:
 	pip install --upgrade pip &&\
